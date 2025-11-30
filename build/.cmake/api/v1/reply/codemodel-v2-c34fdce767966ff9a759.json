@@ -17,6 +17,20 @@
 					"jsonFile" : "target-glfw-Debug-cd9bc9962cea1a9d0ff0.json",
 					"name" : "glfw",
 					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glm::glm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glm__glm-Debug-f0909e92a92c46375d11.json",
+					"name" : "glm::glm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glm::glm-header-only::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glm__glm-header-only-Debug-83d63fbf6b3a12faa47a.json",
+					"name" : "glm::glm-header-only",
+					"projectIndex" : 0
 				}
 			],
 			"directories" : 
@@ -25,7 +39,9 @@
 					"abstractTargetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2,
+						3
 					],
 					"build" : ".",
 					"jsonFile" : "directory-.-Debug-9ad1a58d4644cf6543fa.json",
@@ -76,7 +92,9 @@
 					"abstractTargetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2,
+						3
 					],
 					"directoryIndexes" : 
 					[
@@ -318,7 +336,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "vehicalgraphics::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-vehicalgraphics-Debug-ec0fbb66a8cb835e5cd3.json",
+					"jsonFile" : "target-vehicalgraphics-Debug-a2b2554352cf7355d433.json",
 					"name" : "vehicalgraphics",
 					"projectIndex" : 0
 				}

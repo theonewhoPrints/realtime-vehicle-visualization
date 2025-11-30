@@ -27,25 +27,25 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 16,
+				"line" : 17,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 33,
+				"line" : 34,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 25,
+				"line" : 26,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 31,
+				"line" : 32,
 				"parent" : 0
 			}
 		]
@@ -60,6 +60,10 @@
 		{
 			"backtrace" : 2,
 			"id" : "glfw::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "glm::glm::@6890427a1f51a3e7e1df"
 		}
 	],
 	"compileGroups" : 
@@ -147,6 +151,11 @@
 			},
 			{
 				"backtrace" : 2,
+				"fragment" : "/opt/homebrew/lib/libglm.dylib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
 				"fragment" : "-framework Cocoa",
 				"role" : "libraries"
 			},
@@ -173,6 +182,10 @@
 		{
 			"backtrace" : 2,
 			"id" : "glfw::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "glm::glm::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 2,

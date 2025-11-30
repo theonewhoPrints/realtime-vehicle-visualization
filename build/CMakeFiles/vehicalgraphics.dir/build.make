@@ -112,6 +112,7 @@ vehicalgraphics: CMakeFiles/vehicalgraphics.dir/src/main.cpp.o
 vehicalgraphics: CMakeFiles/vehicalgraphics.dir/src/glad.c.o
 vehicalgraphics: CMakeFiles/vehicalgraphics.dir/build.make
 vehicalgraphics: /opt/homebrew/lib/libglfw.3.4.dylib
+vehicalgraphics: /opt/homebrew/lib/libglm.dylib
 vehicalgraphics: CMakeFiles/vehicalgraphics.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/isaac/vsc/realtime-vehicle-visualization/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable vehicalgraphics"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/vehicalgraphics.dir/link.txt --verbose=$(VERBOSE)

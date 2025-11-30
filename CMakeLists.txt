@@ -7,6 +7,7 @@ project(vehicalgraphics VERSION 0.1.0 LANGUAGES C CXX)
 include(CTest)
 
 find_package(glfw3 REQUIRED)
+find_package(glm CONFIG REQUIRED)
 
 
 # Enable the testing framework (lets you add tests with add_test later)
@@ -32,6 +33,7 @@ set_property(TARGET vehicalgraphics PROPERTY CXX_STANDARD 17)
 
 target_link_libraries(vehicalgraphics PRIVATE
     glfw
+    glm::glm 
     "-framework Cocoa"
     "-framework OpenGL"
     "-framework IOKit"
