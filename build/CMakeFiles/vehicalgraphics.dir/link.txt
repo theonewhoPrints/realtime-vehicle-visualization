@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/vehicalgraphics.dir/src/main.cpp.o CMakeFiles/vehicalgraphics.dir/src/glad.c.o -o vehicalgraphics  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libglfw.3.4.dylib -framework Cocoa -framework OpenGL -framework IOKit -framework CoreVideo

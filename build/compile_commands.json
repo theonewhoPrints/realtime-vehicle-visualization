@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/isaac/vsc/realtime-vehicle-visualization/build",
+  "command": "/usr/bin/c++  -I/Users/isaac/vsc/realtime-vehicle-visualization/include -isystem /opt/homebrew/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/vehicalgraphics.dir/src/main.cpp.o -c /Users/isaac/vsc/realtime-vehicle-visualization/src/main.cpp",
+  "file": "/Users/isaac/vsc/realtime-vehicle-visualization/src/main.cpp",
+  "output": "CMakeFiles/vehicalgraphics.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/isaac/vsc/realtime-vehicle-visualization/build",
+  "command": "/usr/bin/cc  -I/Users/isaac/vsc/realtime-vehicle-visualization/include -isystem /opt/homebrew/include -g -arch arm64 -o CMakeFiles/vehicalgraphics.dir/src/glad.c.o -c /Users/isaac/vsc/realtime-vehicle-visualization/src/glad.c",
+  "file": "/Users/isaac/vsc/realtime-vehicle-visualization/src/glad.c",
+  "output": "CMakeFiles/vehicalgraphics.dir/src/glad.c.o"
+}
+]

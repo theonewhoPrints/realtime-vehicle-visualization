@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug vehicalgraphics (LLDB + CMake)",
+            "type": "lldb",
+            "request": "launch",
+            // Let CMake Tools tell LLDB where the built binary is
+            "program": "${command:cmake.launchTargetPath}",
+            "cwd": "${workspaceFolder}",
+            "args": [],
+            "stopOnEntry": false
+        }
+     ]
+}

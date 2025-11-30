@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-c++"
+	BuildStamp="20251129-1620-Experimental"
+	Name="Isaacs-Air-2.lan"
+	Generator="ctest-4.2.0"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="16.0.0.16000026"
+	OSName="macOS"
+	Hostname="Isaacs-Air-2.lan"
+	OSRelease="14.5"
+	OSVersion="23F79"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="Apple"
+	VendorID="Apple"
+	FamilyID="0"
+	ModelID="0"
+	ModelName="Apple M1"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="8192"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Nov 30 15:14 EST</StartDateTime>
+		<StartTestTime>1764533643</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 30 15:14 EST</EndDateTime>
+		<EndTestTime>1764533643</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
